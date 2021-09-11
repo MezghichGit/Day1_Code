@@ -11,6 +11,8 @@ import java.time.format.FormatStyle;
 public class MainDateTime {
 
 	public static void main(String[] args) {
+		long x =1_333_444_222;
+		//Long y = 1;
 		/*
 		LocalDate ld = LocalDate.now();
 		System.out.println(ld);
